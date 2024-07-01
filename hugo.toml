@@ -1,0 +1,4 @@
+baseURL = 'https://darkfictionden.org/'
+languageCode = 'en-us'
+title = 'Dark Fiction Den'
+theme = 'hugo-ink'
